@@ -17,7 +17,6 @@ def info(e):
         print("One of the requirements is missing.")
     
 
-    #if number % 2 == 0; pecentage means divison (remainder)
 
 
 
